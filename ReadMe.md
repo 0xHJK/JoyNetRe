@@ -1,5 +1,23 @@
 #精弘网络首页文档
 
+##2014-08-20更新
+
+###需要修改的ajax接口
+
+- index.html
+
+    `var host = "http://127.0.0.1:8080/jh_www/api?";`
+
+- login.html
+
+    `$.post("../jh_www/admin/login?APPID=APPID01&token=saf32e34ewsf8f42"`
+
+- admin.html
+
+    `var host = "http://127.0.0.1:8080/jh_www/api?";`
+
+    `var adminhost = "http://127.0.0.1:8080/jh_www/admin/api?";`
+
 ##2014-08-19更新 v0.9.1
 
 ###文件结构
@@ -32,3 +50,7 @@
 ###联系
 - Jackin.works#gmail.com
 - [HJK.im](http://www.hjk.im)
+
+###预览
+
+![preview](preview.png)
