@@ -1,5 +1,8 @@
 #精弘网络首页文档
 
+##2014-09-30更新
+该页面已经弃用，新的页面见[https://github.com/0xHJK/JoyNet](https://github.com/0xHJK/JoyNet)
+
 ##2014-08-20更新
 
 ###需要修改的ajax接口
